@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Para conhecer um pouco mais sobre e/ou entrar em contato, segue as minhas redes sociais:
+  ### Me segue nas minhas redes sociais:
  
 <div> 
   <a href="https://instagram.com/devanny_codes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
