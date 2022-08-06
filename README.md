@@ -4,6 +4,8 @@
    <a href="https://github.com/Anny-Araujo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anny-Araujo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anny-Araujo&layout=compact&langs_count=6&theme=synthwave"/>
+   
+   <br>
 
 </div>
 <div style="display: inline_block"><br>
