@@ -2,7 +2,7 @@
 <br>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anny-Araujo&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anny-Araujo&layout=compact&langs_count=6&theme=synthwave"/>
+ 
 </div>
 
 ### Linguagens
